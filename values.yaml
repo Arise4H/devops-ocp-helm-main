@@ -26,4 +26,4 @@ pipeline:
       org: gitea
       user: gitea
       repo: devops-ocp-app
-      pass: devop
+      pass: devops
